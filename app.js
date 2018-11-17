@@ -2,7 +2,7 @@
 
 //require modules
 var express = require('express');
-var bodyParser = require('body-parser');
+\var bodyParser = require('body-parser');
 var urlencodedString = bodyParser.urlencoded({extended: true});
 
 
@@ -24,8 +24,6 @@ app.use(express.static(__dirname + '/public'));//this displays the style.css and
 app.get('/', function(req, res){
 	res.render('home');
 	console.log('inside home page!');
-
-
 });
 
 app.get('/home', function(req, res){
