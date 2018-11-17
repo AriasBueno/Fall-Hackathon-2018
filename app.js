@@ -10,7 +10,7 @@ const textToSpeech = require('@google-cloud/text-to-speech');
 // Creates a client
 const client = new textToSpeech.TextToSpeechClient();
 // The text to synthesize
-const text = 'The balance in your checking account is 534.10 dollars, savings 100.10.               Your last transaction was Starbucks 5 dollars,  Amazon 25 Dollars stop and shop 70 dollars';
+const text = 'The balance in your checking account is 534.10 dollars, savings 100.10.               Your last transaction was Starbucks 5 dollars,     Amazon 25 Dollars,    stop and shop 70 dollars';
 
 const text3 = 'One moment please';
 
