@@ -7,7 +7,9 @@ There are two major benefits when using this app. Make Banking Mobile Applicatio
 # How Do we make our app friendly to people with visual impairs?
 
 My Simple Bank is able to Voice Assist a client with poor or not vision with simple voice commands to execute a transaction such as:
-Responding What is Their Actual Balances in XYZ Accounts Transferring from X to Y Account A Brief history of the Last Transactions Contact Costumer Service Line if Needed
+Responding What is Their Actual Balances in XYZ Accounts Transferring from X to Y Account A Brief history of the Last Transactions Contact Costumer Service Line if Needed.
+
+![alt text](http://url/to/img.png)
 
 
 
